@@ -1,7 +1,7 @@
 # Fine-Tuning DistilBERT on GoEmotions for Sentiment Analysis
 
 This project demonstrates how to fine-tune the DistilBERT model on the GoEmotions dataset to perform sentiment analysis. The notebook provides a step-by-step guide, from data preprocessing to model evaluation.
-
+#### [Link To Fine Tuned Model](https://drive.google.com/drive/folders/1gmA4-s1gCMfC9k4XUWVKyo7ixeBI-36V?usp=sharing)
 ## Table of Contents
 
 - [Introduction](#introduction)
